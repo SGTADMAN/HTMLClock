@@ -27,3 +27,5 @@ For the Local File directory, locate the HTML file.
 Press OK and it should appear in the preview window.
 
 ### Made by Adam Lutton. Released under Creative Commons Zero v1.0 Universal. AKA, it's public domain, go nuts.
+
+If you want to check out other stuff I do, check [my blog](https://adamluttonblog.co.uk/).
